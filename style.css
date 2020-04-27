@@ -1,0 +1,32 @@
+body {
+  background: rgb(255, 178, 34);
+}
+
+header {
+  background: #ff9100;
+}
+
+main {
+  overflow:hidden;
+  margin: 0 auto;
+}
+
+#column1 {
+  background: rgb(255, 237, 78);
+  float: top;
+  width: 100%;
+}
+
+#column2 {
+  background: rgb(255, 255, 255);
+  float: bottom;
+  width: 100%;
+}
+
+footer {
+  clear: both;
+}
+
+.image img {
+   width: 75%;
+}
